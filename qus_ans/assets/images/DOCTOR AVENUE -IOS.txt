@@ -1,0 +1,58 @@
+DOCTOR AVENUE -IOS
+1.Full name need to restrict from numbers and special character-done.
+2.Header need to change is education information and field should be mandatory.-done.
+3.License Number should have special characters.
+4.Education qualification1 need to fill up than only equcation qualification 2 will show.-done
+5.Educatiion qualification restrict from numbera and special characters.-done
+6.Switch role button added in home screen.-done
+7.Calendar button added in home screen and date picker also added.-done
+8.Calendar and date picker changes same date came-done
+9.In home screen redirect to work place -done
+10.For new account click here redirect to workplace-done
+11.In home screen in referal icon need to change.-PENDING
+12.In home screen "click here" need to be blue colour.-PENDING
+
+Inside individual driver >> Edit >> 
+13.Speciality Multiple need to show inside edit.-PENDING
+14.Enter your degree field missing.-PENDING
+
+Inside individual driver >> profile>>
+15.Id need to show below the name.-PENDING
+16.Sequence need to change -PENDING
+Booking history-Work place /time slot - Diagnostic services-Education information-vacation-Bank details-Settlements-Free surgeries-promotion-Review-Auto acceptance_setting-help-log out-PENDING
+
+Inside individual driver >> profile>> Workplace
+17.When i click on plus sign need It should redirect to diagnostics services.-PENDING
+18.Add workplace have one field "have your own clinic?" is missing.-PENDING
+
+Inside individual driver >> profile>> Workplace>> have your own clinic >> If yes
+19.Clinic name will come .-PENDING
+20.Selected diagnostics services will display.-PENDING
+21.Address need to show.-PENDING
+22.Landmark need to show -PENDING
+23.Consulatant type need to show with if paid consultant fee field  will show -PENDING
+24.All field should be mandatory.-PENDING
+
+Inside individual driver >> profile>> Workplace>> have your own clinic >> If No
+25.Hospital name need to show with drop down.-PENDING
+26.Hospital name should have location also.-PENDING
+27.Based on needd to show and there should be two option like salary and consulation .-PENDING
+
+Inside individual driver >> profile>> Workplace>> have your own clinic >> If No>> consulation
+28.Consultion fees field need to show .-PENDING
+29.Doctor share and hospital share 2 field need -PENDING
+30.Automatic calculation percentage and percentage should not have greater than 100
+
+Inside individual driver >> profile>> Workplace>> have your own clinic >> If No>> salary
+31.Consulatant type need to show with if paid consultant fee field  will show -PENDING
+32.
+
+
+
+
+
+
+
+
+
+
